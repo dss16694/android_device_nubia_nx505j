@@ -1,13 +1,5 @@
 [
   {
-    "repository": "android_vendor_nubia_nx505j",
-    "target_path": "vendor/nubia/nx505j"
-  },
-  {
-    "repository": "android_kernel_nubia_nx505j",
-    "target_path": "kernel/nubia/nx505j"
-  },
-  {
     "repository": "android_external_stlport",
     "target_path": "external/stlport"
   },
