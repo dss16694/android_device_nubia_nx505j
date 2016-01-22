@@ -244,6 +244,7 @@ PRODUCT_PACKAGES += \
     init.mdm.sh \
     init.nubia.sh \
     init.nubia.usb.rc \
+    mount_data.sh \
     init.qcom.early_boot.sh \
     init.qcom.factory.sh \
     init.qcom.rc \

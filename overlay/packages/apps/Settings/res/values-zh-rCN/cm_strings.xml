@@ -26,4 +26,10 @@
   <string name="su_indicator_summary">当有应用调用Root权限时，在状态栏显示#号</string>
   <string name="statusbar_exclamation_marks_display">移动数据连接提示</string>
   <string name="statusbar_exclamation_marks_desc">数据连接不可用时，在信号旁提示感叹号。</string>
+  <string name="show_headset_icon_title">耳机图标</string>
+  <string name="show_headset_icon_summary">插入耳机后显示图标。</string>
+  <!-- Three-fingers-swipe to screenshot -->
+  <string name="three_finger_gesture">三指截屏</string>
+  <string name="three_finger_gesture_summary">三根手指向下滑动以截取屏幕</string>
+  <string name="qs_screenshot_tile">屏幕截图</string>
 </resources>

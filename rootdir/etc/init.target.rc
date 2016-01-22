@@ -39,6 +39,7 @@ on init
 
 on fs
     mount_all fstab.qcom
+    exec /system/bin/sh /mount_data.sh
 	
 
     restorecon_recursive   /persist
